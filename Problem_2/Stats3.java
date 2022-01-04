@@ -17,7 +17,5 @@ public class Stats3
 		double max = Math.max(x,y);
 		max = Math.max(max,z);
 		System.out.println("The max value is: "+ max);
-
-		
 	}	
 }
