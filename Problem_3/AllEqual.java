@@ -8,6 +8,5 @@ public class AllEqual
 		
 		Boolean a = (x==z) && (x==y);
 		System.out.println(a);
-
 	}
 }
