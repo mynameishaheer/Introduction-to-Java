@@ -1,5 +1,5 @@
 ## Exercise 1:
-Write a program that create array of int from command line and print the number of even ints in the array. Hint:
+Write a program EvenInt.java that create array of int from command line and print the number of even ints in the array. Hint:
 ```
 int[] a = new int[args.length];
 
