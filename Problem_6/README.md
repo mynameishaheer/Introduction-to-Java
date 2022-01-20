@@ -1,5 +1,7 @@
 ## Exercise 1:
-Write a program EvenInt.java that create array of int from command line and print the number of even ints in the array. Hint:
+Write a program `EvenInt.java` that create array of int from command line and print the number of even ints in the array. 
+
+_Hint:_
 ```
 int[] a = new int[args.length];
 
@@ -9,10 +11,10 @@ a[i] = Integer.parseInt( args[i] );
 ```
 
 ## Exercise 2:
-Write a program isSorted.java that given an array of real numbers prints true if the list is in sorted (non-decreasing) order and false otherwise. For example, if arrays store [16.1, 12.3, 22.2, 14.4] and [1.5, 4.3, 7.0, 19.5, 25.1, 46.2] respectively, your program should print false and true respectively. Assume the array has at least one element. A one-element array is considered to be sorted.
+Write a program `isSorted.java` that given an array of real numbers prints true if the list is in sorted _(non-decreasing)_ order and false otherwise. For example, if arrays store [16.1, 12.3, 22.2, 14.4] and [1.5, 4.3, 7.0, 19.5, 25.1, 46.2] respectively, your program should print false and true respectively. Assume the array has at least one element. A one-element array is considered to be sorted.
  
 ## Exercise 3:
-Describe and explain what happens when you try to compile a program HugeArray.java with the following statement:
+Describe and explain what happens when you try to compile a program _HugeArray.java_ with the following statement:
 ```
 int n = 1000;
 
