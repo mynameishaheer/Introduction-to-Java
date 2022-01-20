@@ -19,4 +19,4 @@ Write a program `FivePerLine.java` that, using one for loop and one if statement
 _Hint: use the % operator._
 
 ## Bonus Exercise:
-A couple beginning a family decides to keep having children until they have at least one of either sex. Assume that the probability p of having a boy or girl is 1/2. Find total number of children by simulation.
+A couple beginning a family decides to keep having children until they have at least one of either sex. Assume that the probability p of having a boy or girl is 1/2. Write a program `BoysAndGirls.java` find total number of children by simulation.
