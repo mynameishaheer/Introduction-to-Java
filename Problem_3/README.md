@@ -1,9 +1,9 @@
 ## Exercise 1:
-Write a program AllEqual.java that takes three integer command-line arguments and prints true if all three are equal, and false otherwise.
+Write a program `AllEqual.java` that takes three integer command-line arguments and prints true if all three are equal, and false otherwise.
 
 
 ## Exercise 2:
-Write a program SumOfTwoDice.java that prints the sum of two random integers between 1 and 6 _(such as you might get when rolling dice)_. Use `Math.random()`.
+Write a program `SumOfTwoDice.java` that prints the sum of two random integers between 1 and 6 _(such as you might get when rolling dice)_. Use `Math.random()`.
 
 
 ## Exercise 3:
@@ -11,7 +11,7 @@ The International Standard Book Number _(ISBN)_ is a 10 digit code that uniquely
 
 **_Example: the checksum digit corresponding to 020131452 is 5 since is the only value of d1 between 0 and and 10 for which d1 + 2*2 + 3*5 + 4*4 + 5*1 + 6*3 + 7*1 + 8*0 + 9*2 + 10*0 is a multiple of 11._**
 
-Write a program ISBN.java that takes a 9-digit integer as a command-line argument, computes the checksum, and prints the 10-digit ISBN number. It's ok if you don't print any leading 0s.
+Write a program `ISBN.java` that takes a 9-digit integer as a command-line argument, computes the checksum, and prints the 10-digit ISBN number. It's ok if you don't print any leading 0s.
 
 _Hint: if an int variable x contains a 9 digit integer, then you can access its individual digits as follows:
 int d2 = x % 10;
