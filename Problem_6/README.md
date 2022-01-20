@@ -31,4 +31,6 @@ would be transformed to
 {"nine", "eight", "seven", "six", "five", "four", "three", "two", "one", "zero"}
 ```
 
-*Do not create another array to hold the result. Hint: Use the code in the text for exchanging two elements.*
+Do not create another array to hold the result. 
+
+*Hint: Use the code in the text for exchanging two elements.*
