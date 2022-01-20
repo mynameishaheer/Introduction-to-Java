@@ -16,4 +16,5 @@ Write a program `Hurricane.java` that that takes the wind speed _(in miles per h
 5	     _______________   156 and above
 
 ## Exercise 3:
-Write a program `Harmonic.java` that takes input an integer n from command line and output the nth harmonic number _**Hn = 1 + 1/2 + 1/3 + ... + 1/n.**_
+Write a program `Harmonic.java` that takes input an integer n from command line and output the nth harmonic number
+_**Hn = 1 + 1/2 + 1/3 + ... + 1/n.**_
