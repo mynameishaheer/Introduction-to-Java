@@ -31,6 +31,13 @@ int[] a = new int[n*n*n*n];
 
 ## Bonus Exercise:
 
-# Write a code fragment that reverses the order of values in a one-dimensional String array. For instance, the following array String[] a = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"}; would be transformed to {"nine", "eight", "seven", "six", "five", "four", "three", "two", "one", "zero"}
+# Write a code fragment that reverses the order of values in a one-dimensional String array. For instance, the following array 
+``` 
+String[] a = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"}; 
+```
+would be transformed to
+```
+{"nine", "eight", "seven", "six", "five", "four", "three", "two", "one", "zero"}
+```
 
-# Do not create another array to hold the result. Hint: Use the code in the text for exchanging two elements.
+### Do not create another array to hold the result. Hint: Use the code in the text for exchanging two elements.
