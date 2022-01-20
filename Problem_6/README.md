@@ -35,7 +35,7 @@ int[] a = new int[n*n*n*n];
 ``` 
 String[] a = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"}; 
 ```
-would be transformed to
+# would be transformed to
 ```
 {"nine", "eight", "seven", "six", "five", "four", "three", "two", "one", "zero"}
 ```
