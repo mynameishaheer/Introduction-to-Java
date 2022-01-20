@@ -6,9 +6,13 @@ Write a program `Hurricane.java` that that takes the wind speed _(in miles per h
 
 #### Category ______ Wind Speed (mph)
 1	     _______________   74 - 95
+
 2      _______________	 96 - 110
+
 3      _______________ 	 111 - 130
+
 4	     _______________   131 - 155
+
 5	     _______________   156 and above
 
 ## Exercise 3:
