@@ -14,10 +14,17 @@ _Hint: For every character c in the first string, find c in the the second strin
 **String Operations:**
 
 `s.length()` returns length of string s.
+
 `s.charAt(i)` return char at index i.
+
 String s can be converted to lower case with `s = s.toLowerCase();`
+
 You can check if char c is whitespace by `character.isWhitespace(c);`
+
 `s.contains(b)` returns true if s contains String b
+
 A char c can be converted to String using `character.toString(c)`
+
 `s = s.replaceFirst(c, "");` will replace first occurence of c in s with "" _(thus remove it)_
+
 `s = s.replace(" ", "");` will remove all space characters from s 
