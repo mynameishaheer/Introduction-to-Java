@@ -7,7 +7,7 @@ We'll say that an element in an array is "alone" if there are values before and 
 
 e.g.
 
-[1, 2, 3] --> 1, 3, 3]
+[1, 2, 3] --> [1, 3, 3]
 
 [1, 2, 3, 2, 5, 2] --> [1, 3, 3, 5, 5, 2]
 
