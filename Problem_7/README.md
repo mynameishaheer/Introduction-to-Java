@@ -1,5 +1,6 @@
 ## Exercise 1:
 Write a program `AboveAverage.java` that takes n integers from command-line, and prints the fraction of values that are strictly above the average value.
+
 _(Interesting fact: 90% of incoming college students rate themselves as above average)._ 
 
 ## Exercise 2:
