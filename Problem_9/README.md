@@ -3,21 +3,21 @@ Write a program `showTwos.java` that shows the factors of 2 in an integer given 
 
 e.g.
 
-`% java showTwos 7`
+`% java showTwos 7
 
 7 = 7
+`
+`% java showTwos 18
 
-`% java showTwos 18`
+18 = 2 * 9`
 
-18 = 2 * 9
+`% java showTwos 68
 
-`% java showTwos 68`
+68 = 2 * 2 * 17`
 
-68 = 2 * 2 * 17
+`% java showTwos 120
 
-`% java showTwos 120`
-
-120 = 2 * 2 * 2 * 15
+120 = 2 * 2 * 2 * 15`
 
 ## Exercise 2:
 Write a program named `digitSum.java` that accepts an integer as a parameter and prints the sum of the digits of that number. For example, java digitSum 29107 prints 19 because 2+9+1+0+7=19. For negative numbers, return the same value that would result if the number were positive. For example, java digitSum -456 prints 15 which is 4+5+6. 
