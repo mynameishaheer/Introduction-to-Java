@@ -13,7 +13,7 @@ _Ex: ABBCCCCCBBAB -> ABCBAB._
 
 Write a program `Scramble.java` that takes as input a string and output another string with the same first and last letter but internal letters of the original string in random order.
 
-_Ex:._ 
+_Ex:_ 
 
 _important -> iprmoetnt_
 
@@ -22,4 +22,4 @@ _right -> rghit_
 _English -> Elingsh_
 
 
-**_Note: Use the shuffling algorithm in Deck.java for the shuffling part._** 
+**_Note: Use the shuffling algorithm in `Deck.java` for the shuffling part._** 
