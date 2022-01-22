@@ -1,9 +1,9 @@
 ## Exercise 1:
 Write a static method max3() in `Ex1.java` that takes three int arguments and returns the value of the largest one. Add an overloaded function that does the same thing with three double values.
 
-**_Note: An overloaded function is a set of different functions that happen to have the same name._ **
+**_Note: An overloaded function is a set of different functions that happen to have the same name._**
 
-_E.g., following is an example of overloaded add() function._
+_Ex: following is an example of overloaded add() function._
 
 ```
 public static int add(int a, int b) { 
