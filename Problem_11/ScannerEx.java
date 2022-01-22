@@ -11,11 +11,6 @@ public class ScannerEx {
 		int age = Integer.parseInt( sc.next() );
 		
 		System.out.println("Name: " + name);
-		System.out.println("Age: " + age);
-		
-		
-		
-		
+		System.out.println("Age: " + age);		
 	}
-	
 }
