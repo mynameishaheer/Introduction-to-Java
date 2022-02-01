@@ -16,7 +16,7 @@ _**Hint: implement the following recursive function.**_
 
     if(n==____) return _____; // base case
 
-    int s = _________; // recursively find the sum of n-1 elementsÂ 
+    int s = _________; // recursively find the sum of n-1 elements 
 
     return s + ____; // return s + the last element
 
