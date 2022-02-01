@@ -12,15 +12,15 @@ _**Hint: implement the following recursive function.**_
 ```
 // this function find the sum of first n elements of array
 
-public static int sum(int[] a, int n) {
+  public static int sum(int[] a, int n) {
 
-if(n==____) return _____; // base case
+    if(n==____) return _____; // base case
 
-int s = _________; // recursively find the sum of n-1 elementsÂ 
+    int s = _________; // recursively find the sum of n-1 elementsÂ 
 
-return s + ____; // return s + the last element
+    return s + ____; // return s + the last element
 
-}
+  }
 ```
 
 ## Exercise 3:
