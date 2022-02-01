@@ -28,7 +28,7 @@ canBalance([10, 10]) is true
 
 Write a method `isPalindrome` that returns true if and only if the input string is palindrome 
 
-_(A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam or racecar or the number 10201.)_
+**_(A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam or racecar or the number 10201.)_**
 
 
 ## Bonus Exercise:
