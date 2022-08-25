@@ -17,12 +17,12 @@ Write a recursive method `writeChars` that accepts an integer parameter n and th
 
 #### Call	    Output
 <br /> writeChars(1)	*
-<br /> writeChars(2)	**
+<br /> writeChars(2)	* *
 <br /> writeChars(3)	<*>
-<br /> writeChars(4)	<**>
+<br /> writeChars(4)	<* *>
 <br /> writeChars(5)	<<*>>
-<br /> writeChars(6)	<<**>>
+<br /> writeChars(6)	<<* *>>
 <br /> writeChars(7)	<<<*>>>
-<br /> writeChars(8)	<<<**>>>
+<br /> writeChars(8)	<<<* *>>>
 
 Assume that your method is always passed a value greater than equal to 1.
