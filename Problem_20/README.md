@@ -24,7 +24,7 @@ Write a program `Rotation.java` that takes two command-line arguments (the name 
 
 **tj = (si - ci) sin r + (sj -cj) cos r + cj
 
-where (ci, cj) is the center of the image.
+where (ci, cj) is the center of the image.<br />
 ![image](https://user-images.githubusercontent.com/94866222/186717259-95734311-c371-4e9e-9dd3-ef580d179216.png)  ![image](https://user-images.githubusercontent.com/94866222/186717311-9fe6188e-78c6-4199-a651-4ce7924cd5e6.png)
 
 
