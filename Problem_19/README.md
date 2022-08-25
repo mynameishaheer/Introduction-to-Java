@@ -1,13 +1,13 @@
 ## Exercise 1:
 
-Use recursion) Given a string, create a new string with all the consecutive duplicates removed. Ex: ABBCCCCCBBAB -> ABCBAB.
+Use recursion. Given a string, create a new string with all the consecutive duplicates removed. Ex: ABBCCCCCBBAB -> ABCBAB.
 
 
 ## Exercise 2:
 
 Write a recursive function printTwos that accepts an integer parameter n and that prints an expression composed of a single odd number multiplied by twos that is equal to n. The twos should surround the odd number with an equal number of twos on either side if possible. Several calls and their output are shown below.
 
-Call | Output
+##### Call | Output
 <br /> `printTwos(80)` |	2 * 2 * 5 * 2 * 2
 <br /> `printTwos(68)` |	2 * 17 * 2
 <br /> `printTwos(96)` |	2 * 2 * 2 * 3 * 2 * 2
