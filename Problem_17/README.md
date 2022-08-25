@@ -25,3 +25,4 @@ Given a non-negative `int n`, return the count of the occurrences of 7 as a digi
 ## Exercise 3:
 
 Write a program to produce each of the following recursive patterns. The ratio of the sizes of the squares is 2.2:1. To draw a shaded square, draw a filled gray square, then an unfilled black square.
+![image](https://user-images.githubusercontent.com/94866222/186711914-430c90dc-11c4-40be-828f-7616d2e45f85.png)
